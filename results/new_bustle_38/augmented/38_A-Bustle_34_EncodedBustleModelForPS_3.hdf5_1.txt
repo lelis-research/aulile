@@ -1,0 +1,2 @@
+Program: arg_0[:(arg_0.Length() - arg_1.Length())]
+Number of evaluations: 12116

@@ -1,0 +1,2 @@
+Program: _arg_0.replace(_arg_1.upper(), "").replace(concat(1.IntToStr(), " "), 1.IntToStr())
+Number of evaluations: 22963706

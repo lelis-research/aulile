@@ -1,0 +1,2 @@
+Program: arg_0.lower().replace(concat("".lower(), arg_0), arg_0.upper())
+Number of evaluations: 109185

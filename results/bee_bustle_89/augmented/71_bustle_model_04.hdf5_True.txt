@@ -1,0 +1,2 @@
+Program: (if_arg_0.Contain(_arg_0.Substr((_arg_0.IndexOf(" ") + 3),_arg_0.Length()).replace(" ", "").Substr(0,4)) then _arg_0.Substr((_arg_0.IndexOf(" ") + 3),_arg_0.Length()).replace(" ", "").Substr(0,4) else _arg_0).Substr((1 - 5),_arg_0.Length())
+Number of evaluations: 378157483

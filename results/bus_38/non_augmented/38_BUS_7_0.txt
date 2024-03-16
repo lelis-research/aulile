@@ -1,0 +1,2 @@
+Program: arg_0.Length() > concat(arg_0.lower(), arg_1).IndexOf(arg_1.lower())
+Number of evaluations: 49294543

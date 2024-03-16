@@ -1,0 +1,2 @@
+Program: name[ length-name.IndexOf(name[ length-name.IndexOf(" "):]):].strip()
+Number of evaluations: 7037

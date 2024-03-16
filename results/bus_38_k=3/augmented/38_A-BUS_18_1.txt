@@ -1,0 +1,2 @@
+Program: (ifEqual((ifEqual("0%",arg_0) then "Not Yet Started" else "In Progress"),(ifEqual("0%",arg_0[ length-2:]) then "Not Yet Started" else "In Progress")) then (ifEqual("0%",arg_0) then "Not Yet Started" else "In Progress") else "Completed")
+Number of evaluations: 62219182

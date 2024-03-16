@@ -1,0 +1,2 @@
+Program: (ifEqual("windows",_arg_0[ length-"windows".Length():]) then "windows" else (ifEqual("mac",_arg_0[ length-"mac".Length():]) then "mac" else "microsoft"))
+Number of evaluations: 71279164

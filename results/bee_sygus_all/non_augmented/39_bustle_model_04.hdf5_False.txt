@@ -1,0 +1,2 @@
+Program: Equal(_arg_0.Length() > "blue".Length(),"orange".Contain(_arg_0.CharAt(1)))
+Number of evaluations: 1901469

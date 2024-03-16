@@ -1,0 +1,2 @@
+Program: name.Substr((name.IndexOf(" ") + 1),name.Length())
+Number of evaluations: 3481

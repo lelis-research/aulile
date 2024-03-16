@@ -1,0 +1,2 @@
+Program: _arg_0.Substr(_arg_0.IndexOf("windows".strip().replace(_arg_0[ length-1:], "").replace("windows", _arg_0.Substr(_arg_0.replace("microsoft", "mac").IndexOf("mac"):_arg_0.replace("microsoft", "mac").IndexOf("mac")+"apple".Length()))):_arg_0.IndexOf("windows".strip().replace(_arg_0[ length-1:], "").replace("windows", _arg_0.Substr(_arg_0.replace("microsoft", "mac").IndexOf("mac"):_arg_0.replace("microsoft", "mac").IndexOf("mac")+"apple".Length())))+"microsoft".Length())
+Number of evaluations: 137194348

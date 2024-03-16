@@ -1,0 +1,2 @@
+Program: (if"100%".Contain(arg_0) then arg_0 else "In Progress").replace("100%", "Completed").replace("0%", "Not Yet Started")
+Number of evaluations: 2756038

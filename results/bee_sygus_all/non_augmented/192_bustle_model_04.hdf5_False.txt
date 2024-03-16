@@ -1,0 +1,2 @@
+Program: (ifcol2.Contain("USA") then col2 else concat(concat(concat(col2, ","), " "), "USA"))
+Number of evaluations: 3323127

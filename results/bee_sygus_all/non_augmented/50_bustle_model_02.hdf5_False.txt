@@ -1,0 +1,2 @@
+Program: (_arg_0.Length().IntToStr().CharAt(0).StrToInt() + (_arg_0.Length() % _arg_0.Length().IntToStr().CharAt(1).StrToInt()))
+Number of evaluations: 1896852

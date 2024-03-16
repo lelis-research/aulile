@@ -1,0 +1,2 @@
+Program: concat(_arg_0.replace("%", _arg_0)[:(1 - 8)][ length-5:], _arg_0.Substr(_arg_0.IndexOf(0.IntToStr()):_arg_0.IndexOf(0.IntToStr())+_arg_0.IndexOf(" ")).strip())[ length-6:][:_arg_0[:3] + "" + _arg_0[3+7:][ length-_arg_0.IndexOf(" "):].title().Length()]
+Number of evaluations: 74596445

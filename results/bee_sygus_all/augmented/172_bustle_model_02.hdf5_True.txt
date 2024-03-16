@@ -1,0 +1,2 @@
+Program: _arg_0.Substr((("9".StrToInt() * 2) + -1),_arg_0.Length())
+Number of evaluations: 124635

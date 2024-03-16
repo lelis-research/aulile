@@ -1,0 +1,2 @@
+Program: arg_0.lower().replace(arg_0.lower().CharAt(0), arg_0.upper().CharAt(0))
+Number of evaluations: 546852

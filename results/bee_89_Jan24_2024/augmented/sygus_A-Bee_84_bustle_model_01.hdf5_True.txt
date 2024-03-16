@@ -1,0 +1,2 @@
+Program: (ifEqual(_arg_0,_arg_0.replace(_arg_0.Substr(0,_arg_0.IndexOf(" ")).upper(), "")) then concat(" ", _arg_0.replace(_arg_0.Substr(0,_arg_0.IndexOf(" ")).upper(), "").Substr(0,9)) else _arg_0.replace(_arg_0.Substr(0,_arg_0.IndexOf(" ")).upper(), ""))
+Number of evaluations: 523896068

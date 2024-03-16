@@ -1,0 +1,2 @@
+Program: (if3 > concat((ifEqual(arg_0,arg_1) then "yes" else (ifEqual(arg_0,(ifEqual(arg_0,arg_1) then "yes" else arg_0).lower()) then "no" else "yes").replace(arg_0[:1], "")), arg_1.replace(" ", "yes")[:1] + "" + arg_1.replace(" ", "yes")[1+15:][:-4]).Length() then "no" else "yes")
+Number of evaluations: 114987632

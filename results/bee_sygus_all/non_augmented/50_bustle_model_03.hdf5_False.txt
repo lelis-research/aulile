@@ -1,0 +1,2 @@
+Program: ((((1 - (_arg_0.Length() % _arg_0.IndexOf(" "))) % (_arg_0.IndexOf(" ") + 1)) + 1) + 1)
+Number of evaluations: 3784115

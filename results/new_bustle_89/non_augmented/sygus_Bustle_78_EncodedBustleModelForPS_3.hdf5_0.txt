@@ -1,0 +1,2 @@
+Program: _arg_0.Substr(_arg_0.IndexOf(concat("=", " ")):_arg_0.IndexOf(concat("=", " "))+_arg_0.Length()).replace("=", "").strip()
+Number of evaluations: 10544183

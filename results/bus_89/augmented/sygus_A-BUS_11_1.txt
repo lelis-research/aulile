@@ -1,0 +1,2 @@
+Program: _arg_0.replace(_arg_0.lower(), _arg_1)
+Number of evaluations: 2355

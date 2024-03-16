@@ -1,0 +1,2 @@
+Program: name.Substr(1:1+name.IndexOf(" ")).strip()
+Number of evaluations: 11952

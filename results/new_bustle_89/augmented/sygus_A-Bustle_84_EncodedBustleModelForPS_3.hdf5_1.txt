@@ -1,0 +1,2 @@
+Program: concat(" ", _arg_0).replace(_arg_0.replace(_arg_0.Substr(6:6+1), _arg_0)[:4], "")[:_arg_0.IndexOf(_arg_0[ length-2:])].replace(concat(" ", _arg_0).replace(_arg_0.replace(_arg_0.Substr(6:6+1), _arg_0)[:4], ""), concat(" ", _arg_0).replace(_arg_0.replace(_arg_0.Substr(6:6+1), _arg_0)[:4], "")[ length-(4 + 9):])
+Number of evaluations: 111849978

@@ -1,0 +1,2 @@
+Program: (if"100%".Contain(arg_0) then (ifEqual("0%",arg_0) then "Not Yet Started" else "Completed") else "In Progress")
+Number of evaluations: 2719071

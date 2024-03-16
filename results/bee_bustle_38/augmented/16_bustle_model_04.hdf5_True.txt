@@ -1,0 +1,2 @@
+Program: (ifconcat(arg_0, concat("false", "true")).lower().Contain(arg_0) then "true" else "false")
+Number of evaluations: 384521

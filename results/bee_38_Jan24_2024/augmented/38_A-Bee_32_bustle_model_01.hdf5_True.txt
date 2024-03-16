@@ -1,0 +1,2 @@
+Program: (ifarg_1.replace(" ", "yes").Contain(" ") then (ifEqual(arg_0.Length(),arg_1.Length()) then "yes" else "no") else (ifarg_1.Contain(arg_0.Substr(3,-4)) then (ifarg_1.Contain(arg_0.Substr(-4,2).lower()) then (ifEqual(arg_0.Length(),arg_1.Length()) then "yes" else "no") else "no") else "no"))
+Number of evaluations: 2563652476

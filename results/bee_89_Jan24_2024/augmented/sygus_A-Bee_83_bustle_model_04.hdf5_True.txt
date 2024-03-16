@@ -1,0 +1,2 @@
+Program: concat(5.IntToStr().Substr(concat(_arg_0.Substr((-1 - 9),1), _arg_0.Substr(_arg_0.IndexOf(0.IntToStr()),(((5 * 8) % _arg_0.Length()) + 3)).replace(" ", "")).StrToInt(),1), concat(_arg_0.Substr((-1 - 9),1), _arg_0.Substr(_arg_0.IndexOf(0.IntToStr()),(((5 * 8) % _arg_0.Length()) + 3)).replace(" ", "")))
+Number of evaluations: 2289532783

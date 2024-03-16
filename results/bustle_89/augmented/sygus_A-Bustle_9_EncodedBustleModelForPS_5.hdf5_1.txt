@@ -1,0 +1,2 @@
+Program: _arg_0.replace("Inc", "").replace("Company", "").replace("Corporation", "").replace("Enterprises", "").strip()
+Number of evaluations: 6435344

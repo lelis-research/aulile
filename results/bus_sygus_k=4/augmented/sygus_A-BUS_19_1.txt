@@ -1,0 +1,2 @@
+Program: (ifEqual(_arg_0.replace("2", "bananas").replace("3", "strawberries").replace(",", ""),_arg_0.replace("3", "strawberries").replace("4", "oranges").replace(",", "")) then _arg_0.replace("1", "apple").replace("3", "strawberries").replace(",", "") else _arg_0.replace("2", "bananas").replace("4", "oranges").replace(",", ""))
+Number of evaluations: 120779815

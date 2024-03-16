@@ -1,0 +1,2 @@
+Program: _arg_0.Substr(_arg_0.IndexOf(_arg_0.Substr(_arg_0.IndexOf(1.IntToStr(),(_arg_0.IndexOf(" ") + 3)),(3 * 5))),_arg_0.Length()).Substr(0,4)
+Number of evaluations: 365236488

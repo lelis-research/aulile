@@ -1,0 +1,2 @@
+Program: (ifEqual("windows",_arg_0.replace("/", "microsoft")[ length-(1 + _arg_0.IndexOf("/")):]) then "windows" else _arg_0[ length-"mac".Length():].replace("/", "microsoft")[ length-"microsoft".Length():])
+Number of evaluations: 58067917

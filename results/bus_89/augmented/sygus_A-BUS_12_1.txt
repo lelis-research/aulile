@@ -1,0 +1,2 @@
+Program: _arg_0.replace(_arg_0.replace("/", "apple")[ length-"apple".Length():].replace("apple", "microsoft"), "/")[ length-"mac".Length():].replace("/", _arg_0.replace("/", "apple")[ length-"apple".Length():].replace("apple", "microsoft"))[ length-"microsoft".Length():]
+Number of evaluations: 140672842

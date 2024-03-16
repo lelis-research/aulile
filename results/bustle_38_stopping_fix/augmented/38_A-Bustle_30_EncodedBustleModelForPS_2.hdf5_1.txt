@@ -1,0 +1,2 @@
+Program: concat((ifEqual(arg_0,arg_0[ length-arg_1[:2] + "" + arg_1[2+3:].Length():]) then arg_1 else arg_0), arg_1.Substr((ifEqual(arg_0,arg_0[ length-arg_1[:2] + "" + arg_1[2+3:].Length():]) then arg_1 else arg_0).Length():(ifEqual(arg_0,arg_0[ length-arg_1[:2] + "" + arg_1[2+3:].Length():]) then arg_1 else arg_0).Length()+1))
+Number of evaluations: 41009142

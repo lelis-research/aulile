@@ -1,0 +1,2 @@
+Program: _arg_0[ length-_arg_0[ length-(1 + (1 + (1 + _arg_0.replace(_arg_0[ length-1:], "4").IndexOf("4")))):].replace("7", _arg_0[ length-(1 + 1):]).Length():]
+Number of evaluations: 54593171

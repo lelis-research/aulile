@@ -1,0 +1,2 @@
+Program: concat(arg_0.title()[:-3], arg_0.upper()[ length-3:])
+Number of evaluations: 9720

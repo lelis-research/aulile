@@ -1,0 +1,2 @@
+Program: arg_0.lower().replace(arg_0[:15], arg_0.upper())
+Number of evaluations: 467226

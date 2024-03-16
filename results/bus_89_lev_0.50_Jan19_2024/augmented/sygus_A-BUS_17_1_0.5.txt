@@ -1,0 +1,2 @@
+Program: concat(_arg_0[:_arg_0.IndexOf("/")].strip(), _arg_0[ length-(1 + _arg_0[:_arg_0.IndexOf("/")].strip().Length()):].replace("/", ""))
+Number of evaluations: 75241461

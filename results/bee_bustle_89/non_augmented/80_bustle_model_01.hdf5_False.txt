@@ -1,0 +1,2 @@
+Program: _arg_0.Substr((-1 - (3 * 3)),_arg_0.Length())
+Number of evaluations: 48402

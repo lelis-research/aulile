@@ -1,0 +1,2 @@
+Program: concat(arg_0[:15], "...").replace(arg_0[:15] + "..." + arg_0[15+0:], arg_0)
+Number of evaluations: 1864940

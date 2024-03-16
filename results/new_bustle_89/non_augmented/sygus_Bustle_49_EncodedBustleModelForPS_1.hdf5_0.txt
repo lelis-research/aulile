@@ -1,0 +1,2 @@
+Program: concat(firstname, concat(" ", lastname[:1] + "." + lastname[1+lastname.Length():]))
+Number of evaluations: 4305

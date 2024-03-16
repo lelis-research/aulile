@@ -1,0 +1,2 @@
+Program: (ifarg_1.Contain(arg_0) then arg_1 else (ifEqual(arg_0.Substr(0,-4),arg_1.Substr(-2,1)) then arg_1 else arg_0))
+Number of evaluations: 306597208

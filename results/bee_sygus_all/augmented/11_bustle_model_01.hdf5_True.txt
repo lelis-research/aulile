@@ -1,0 +1,2 @@
+Program: _arg_0.Substr(0,(((_arg_0.replace("|", _arg_0).IndexOf(_arg_0) + -1) % _arg_0.Length()) + 1))
+Number of evaluations: 601309

@@ -1,0 +1,2 @@
+Program: (ifEqual(arg_0,arg_0.lower()) then "true" else "false")
+Number of evaluations: 250083

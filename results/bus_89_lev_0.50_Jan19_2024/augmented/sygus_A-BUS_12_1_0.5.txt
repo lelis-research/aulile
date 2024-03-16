@@ -1,0 +1,2 @@
+Program: (ifEqual("mac","windows".strip().replace(_arg_0[ length-1:], "microsoft").replace("windows", "mac")) then (ifEqual("/",_arg_0[ length-1:]) then concat("microsoft", "microsoft") else "windows".strip().replace(_arg_0[ length-1:], "microsoft").replace("windows", "mac")) else "windows")[:"microsoft".Length()]
+Number of evaluations: 148536396

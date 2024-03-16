@@ -1,0 +1,2 @@
+Program: _arg_0.Substr((("/n".Length() + 1) * (_arg_0.Length() % ((-1 + -1) * _arg_0.IndexOf(" ")))),_arg_0.Length()).replace("/n", "")
+Number of evaluations: 220375358

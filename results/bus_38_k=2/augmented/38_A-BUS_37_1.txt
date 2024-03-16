@@ -1,0 +1,2 @@
+Program: arg_0[:1] + "" + arg_0[1+arg_0.IndexOf(" "):][:2]
+Number of evaluations: 902606

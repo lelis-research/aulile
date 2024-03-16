@@ -1,0 +1,2 @@
+Program: (if_arg_0.Contain("microsoft") then (if_arg_0.Contain("windows") then "windows" else "microsoft") else "mac")
+Number of evaluations: 1191888

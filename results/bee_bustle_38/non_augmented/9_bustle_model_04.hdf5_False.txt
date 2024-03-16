@@ -1,0 +1,2 @@
+Program: concat(arg_0.CharAt(0), concat(arg_1, concat("@", concat(arg_2, ".com")))).lower()
+Number of evaluations: 1120716

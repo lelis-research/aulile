@@ -1,0 +1,2 @@
+Program: (if"New York".Prefixof(col2) then col2 else (ifcol2.Contain("USA") then col2 else concat(concat(col2, ","), concat(" ", "USA"))).replace("New York", "NY")).replace("New York", "CT").replace("New York", "NY").replace("CT", "New York")
+Number of evaluations: 634106221

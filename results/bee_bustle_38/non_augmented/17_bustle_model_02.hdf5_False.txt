@@ -1,0 +1,2 @@
+Program: arg_0.Substr((arg_0.IndexOf(" ") + 1),arg_0.Length())
+Number of evaluations: 764178

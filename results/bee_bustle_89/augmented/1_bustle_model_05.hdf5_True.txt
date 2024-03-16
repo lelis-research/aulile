@@ -1,0 +1,2 @@
+Program: _arg_0.Substr(0,(_arg_0.replace("US", "CAN").replace("CAN", _arg_0).Length() % (_arg_0.Length() + 1)))
+Number of evaluations: 3037523

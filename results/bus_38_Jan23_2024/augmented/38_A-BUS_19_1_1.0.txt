@@ -1,0 +1,2 @@
+Program: concat(concat(arg_0.replace("-", "("), ")"[:(-4 + arg_0.Length())]), ")")[:arg_0.replace("-", -4.IntToStr()).Length()]
+Number of evaluations: 82224852

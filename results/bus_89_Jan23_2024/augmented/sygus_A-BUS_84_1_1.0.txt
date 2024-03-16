@@ -1,0 +1,2 @@
+Program: concat(" ", _arg_0.replace(0.IntToStr(), "")[ length-(3 + 9):]).replace(concat(" ", 1.IntToStr()), "")[:concat(" ", _arg_0.replace(0.IntToStr(), "")[ length-(3 + 9):]).replace(concat(" ", _arg_0.replace(0.IntToStr(), "")[ length-(3 + 9):]).strip().IndexOf(" ").IntToStr(), "").Length()]
+Number of evaluations: 112619617

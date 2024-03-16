@@ -1,0 +1,2 @@
+Program: concat("windows"[:"microsoft".IndexOf(_arg_0.replace("/", "microsoft")[ length-(1 + "microsoft".IndexOf(_arg_0.replace("/", "microsoft")[ length-1:])):][:1])], _arg_0.replace("/", "microsoft")[ length-(1 + "microsoft".IndexOf(_arg_0.replace("/", "microsoft")[ length-1:])):])
+Number of evaluations: 39505167

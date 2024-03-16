@@ -1,0 +1,2 @@
+Program: _arg_0[:3] + "" + _arg_0[3+8:]*3.Substr(6:6+5).replace("%", _arg_0[ length-6:])[:_arg_0.IndexOf(" ")]
+Number of evaluations: 107489755

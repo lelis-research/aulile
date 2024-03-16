@@ -1,0 +1,2 @@
+Program: _arg_0.Substr(0,_arg_0.IndexOf("."))
+Number of evaluations: 982

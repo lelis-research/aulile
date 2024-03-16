@@ -1,0 +1,2 @@
+Program: arg_0.upper().Contain(arg_1.upper())
+Number of evaluations: 51453347

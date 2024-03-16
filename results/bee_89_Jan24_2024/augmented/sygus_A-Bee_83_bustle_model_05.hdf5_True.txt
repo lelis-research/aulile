@@ -1,0 +1,2 @@
+Program: concat(_arg_0.Substr((1 - 7),_arg_0.IndexOf((_arg_0.Length() * (_arg_0.Length() - (5 % (_arg_0.Length() % 9)))).IntToStr())), (_arg_0.Length() * (_arg_0.Length() - (5 % (_arg_0.Length() % 9)))).IntToStr())
+Number of evaluations: 709003546

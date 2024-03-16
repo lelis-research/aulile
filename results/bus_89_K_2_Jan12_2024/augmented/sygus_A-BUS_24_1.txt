@@ -1,0 +1,2 @@
+Program: _arg_0.replace("-", "").replace(".", "").replace(concat(">", " "), "").replace("<", "")
+Number of evaluations: 116186967

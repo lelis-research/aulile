@@ -1,0 +1,2 @@
+Program: concat(arg_0.replace("-", "("), ")"[:(-1 + arg_0.Length())]).replace(concat(arg_0, ")"), arg_0)
+Number of evaluations: 65300572

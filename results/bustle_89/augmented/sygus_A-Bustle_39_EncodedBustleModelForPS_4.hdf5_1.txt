@@ -1,0 +1,2 @@
+Program: _arg_0[ length-_arg_0.replace(" ", _arg_0[ length-concat(_arg_0[:-1], "/n").IndexOf("/n"):][:1] + 1.IntToStr() + _arg_0[ length-concat(_arg_0[:-1], "/n").IndexOf("/n"):][1+0:]).IndexOf(_arg_0[ length-1:]):]
+Number of evaluations: 65784996

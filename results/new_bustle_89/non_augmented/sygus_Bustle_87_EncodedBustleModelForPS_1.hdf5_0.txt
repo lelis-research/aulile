@@ -1,0 +1,2 @@
+Program: col2.replace(col2.replace("USA", " "), concat(col2, concat(",", concat(" ", "USA"))))
+Number of evaluations: 45393213

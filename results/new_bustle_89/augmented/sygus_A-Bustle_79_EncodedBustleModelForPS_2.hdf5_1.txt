@@ -1,0 +1,2 @@
+Program: _arg_0.replace(_arg_1.strip(), "").strip()
+Number of evaluations: 5374

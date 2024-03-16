@@ -1,0 +1,2 @@
+Program: (if"/".SuffixOf(_arg_0) then "" else _arg_0.replace(_arg_0.Substr(_arg_0.IndexOf("/"),(1 % (1 - _arg_0.IndexOf("/")))), ""))
+Number of evaluations: 288435663

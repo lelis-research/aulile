@@ -1,0 +1,2 @@
+Program: (ifEqual("0%",arg_0) then "Not Yet Started" else concat((ifEqual("0%",arg_0[ length-2:]) then "" else "In Progress"), "Completed")[:"In Progress".Length()])
+Number of evaluations: 99411229

@@ -1,0 +1,2 @@
+Program: concat(concat(concat(name.CharAt(0), "."), name.CharAt((name.IndexOf(" ") + 1))), ".")
+Number of evaluations: 139787

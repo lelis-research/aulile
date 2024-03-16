@@ -1,0 +1,2 @@
+Program: _arg_0[:3] + "" + _arg_0[3+9:]*2.Substr(_arg_0.IndexOf(" "):_arg_0.IndexOf(" ")+6).strip().replace("%", "")
+Number of evaluations: 75888252

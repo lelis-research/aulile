@@ -1,0 +1,2 @@
+Program: _arg_0.replace("that", (ifEqual("that",_arg_0) then "that" else ""))
+Number of evaluations: 19547

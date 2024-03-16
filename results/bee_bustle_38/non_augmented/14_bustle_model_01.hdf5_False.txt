@@ -1,0 +1,2 @@
+Program: arg_0.Substr(arg_0.IndexOf("/",(-3 * -3)),arg_0.Length())
+Number of evaluations: 1847270

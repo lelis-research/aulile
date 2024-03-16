@@ -1,0 +1,2 @@
+Program: concat(arg_0.upper().CharAt(0), arg_0.lower().Substr(1,arg_0.Length()))
+Number of evaluations: 9644047

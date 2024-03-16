@@ -1,0 +1,2 @@
+Program: _arg_0[ length-"mac".Length():].replace("/", "microsoft")[ length-"microsoft".Length():].replace("windows"[ length-"mac".Length():], "windows")
+Number of evaluations: 58316535

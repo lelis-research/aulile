@@ -1,0 +1,2 @@
+Program: concat(arg_0.replace("-", "("), (ifEqual(arg_0,arg_0.replace("-", "")) then "" else ")"))
+Number of evaluations: 4569890

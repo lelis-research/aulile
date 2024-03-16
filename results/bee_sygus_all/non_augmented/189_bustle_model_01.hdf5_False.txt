@@ -1,0 +1,2 @@
+Program: concat(col1, concat(",", concat(" ", concat(col2, (ifcol2.Contain("USA") then col1.Substr(1,0) else concat(",", concat(" ", "USA")))))))
+Number of evaluations: 3076916

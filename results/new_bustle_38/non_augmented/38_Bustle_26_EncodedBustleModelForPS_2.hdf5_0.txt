@@ -1,0 +1,2 @@
+Program: arg_0.lower().strip()
+Number of evaluations: 269

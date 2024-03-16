@@ -1,0 +1,2 @@
+Program: (if_arg_0.Contain(" ") then _arg_0.Substr(0,_arg_0.replace("|", _arg_0).IndexOf(_arg_0)) else _arg_0)
+Number of evaluations: 370520

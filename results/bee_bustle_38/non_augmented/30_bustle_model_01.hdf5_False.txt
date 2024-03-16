@@ -1,0 +1,2 @@
+Program: arg_1.replace(arg_1.replace(arg_0.Substr(-4,-3), arg_1.Substr(-3,-2)), arg_0)
+Number of evaluations: 183160662

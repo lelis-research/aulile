@@ -1,0 +1,2 @@
+Program: _arg_0.replace("/", _arg_0[:_arg_0.IndexOf("/")])[:1] + "" + _arg_0.replace("/", _arg_0[:_arg_0.IndexOf("/")])[1+_arg_0.Length():].replace(_arg_0.replace("/", _arg_0[:_arg_0.IndexOf("/")])[:1] + "" + _arg_0.replace("/", _arg_0[:_arg_0.IndexOf("/")])[1+_arg_0.Length():].lower(), "")
+Number of evaluations: 70984946

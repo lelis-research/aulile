@@ -1,0 +1,2 @@
+Program: Equal("yellow".CharAt(0).SuffixOf(_arg_0),(_arg_0.Length() % (-1 + -1)))
+Number of evaluations: 3485204

@@ -1,0 +1,2 @@
+Program: name[:(name.Length() - 3)]
+Number of evaluations: 1951

@@ -1,0 +1,2 @@
+Program: concat(" ", _arg_0)[:1] + "" + concat(" ", _arg_0)[1+(1 + _arg_0.IndexOf("=")):].strip()
+Number of evaluations: 541373

@@ -1,0 +1,2 @@
+Program: concat(arg_0.CharAt(0), arg_0.CharAt((arg_0.IndexOf(" ") + 1))).upper()
+Number of evaluations: 245146

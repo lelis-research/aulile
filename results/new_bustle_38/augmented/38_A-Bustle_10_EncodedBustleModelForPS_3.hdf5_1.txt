@@ -1,0 +1,2 @@
+Program: arg_0[:4] + concat("/", arg_0[:2] + "/" + arg_0[2+15:]) + arg_0[4+0:].Substr(2:2+15)
+Number of evaluations: 125032

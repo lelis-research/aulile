@@ -1,0 +1,2 @@
+Program: concat(col2.replace("USA", " ").strip(), concat(" ", "USA")).replace(col2.replace("USA", " "), concat(col2, ","))
+Number of evaluations: 77225847

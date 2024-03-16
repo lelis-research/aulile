@@ -1,0 +1,2 @@
+Program: concat(arg_0.Substr(0,15), "".lower().replace(arg_0.Substr(-1,15), "..."))
+Number of evaluations: 2875098

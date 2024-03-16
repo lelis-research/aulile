@@ -1,0 +1,2 @@
+Program: concat(name[:1], concat(".", concat(name.Substr(name.IndexOf(" "):name.IndexOf(" ")+2).strip(), ".")))
+Number of evaluations: 7187024

@@ -1,0 +1,2 @@
+Program: _arg_0[:-1][ length-1:].replace("apple"[:1], "mac").replace("microsoft"[:_arg_0[:-1][ length-1:].replace("apple"[:1], "mac").Length()], concat(_arg_0[:-1][ length-1:].replace("apple"[:1], "mac"), _arg_0[:-1][ length-1:].replace("apple"[:1], "mac").upper())).replace("microsoft"[:_arg_0[:-1][ length-1:].replace("apple"[:1], "mac").Length()], concat("microsoft", _arg_0)).replace("windows"[:1], "windows")[:"microsoft".Length()]
+Number of evaluations: 226689082

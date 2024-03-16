@@ -1,0 +1,2 @@
+Program: (ifEqual(arg_1.replace(" ", "yes").lower(),arg_0.replace(" ", "yes").lower()) then "yes" else "no")
+Number of evaluations: 150233168

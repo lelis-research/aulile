@@ -1,0 +1,2 @@
+Program: concat(concat(concat(firstname.CharAt(0), "."), " "), lastname)
+Number of evaluations: 5358

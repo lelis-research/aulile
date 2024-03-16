@@ -1,0 +1,9 @@
+absl_py==1.4.0+computecanada
+Levenshtein==0.21.0
+numpy==1.24.2+computecanada
+pickle5==0.0.11
+rapidfuzz==2.13.7+computecanada
+torch==1.13.1+computecanada
+torch_scatter==2.1.1+computecanada
+tqdm==4.65.0+computecanada
+typing_extensions==4.5.0+computecanada

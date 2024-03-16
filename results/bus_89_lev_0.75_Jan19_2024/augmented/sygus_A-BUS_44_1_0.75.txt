@@ -1,0 +1,2 @@
+Program: concat(name[:1] + "." + name[1+name.IndexOf(" "):][:(1 + 2)], ".")
+Number of evaluations: 25631150

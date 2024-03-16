@@ -1,0 +1,2 @@
+Program: _arg_0.replace("/", "microsoft")[ length-(1 + "microsoft".IndexOf(_arg_0.replace("/", "microsoft")[ length-1:])):].replace("windows"[ length-_arg_0.replace("/", "microsoft")[ length-(1 + "microsoft".IndexOf(_arg_0.replace("/", "microsoft")[ length-1:])):].Length():], "windows")
+Number of evaluations: 32490241

@@ -1,0 +1,2 @@
+Program: concat(concat(_arg_1.CharAt(0), _arg_0), "_acme.com")
+Number of evaluations: 2953

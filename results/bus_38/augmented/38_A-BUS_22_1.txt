@@ -1,0 +1,2 @@
+Program: (arg_0.Length() - arg_0.replace("/", "").Length()).IntToStr()
+Number of evaluations: 3050477

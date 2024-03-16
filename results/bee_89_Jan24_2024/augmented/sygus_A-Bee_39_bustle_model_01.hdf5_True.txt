@@ -1,0 +1,2 @@
+Program: _arg_0.Substr(("/n".Length() * (_arg_0.Length() % (-1 - (_arg_0.IndexOf(" ") * "/n".Length())))),_arg_0.Length()).Substr(_arg_0.Substr(("/n".Length() * (_arg_0.Length() % (-1 - (_arg_0.IndexOf(" ") * "/n".Length())))),_arg_0.Length()).IndexOf(1.IntToStr()),_arg_0.Substr(("/n".Length() * (_arg_0.Length() % (-1 - (_arg_0.IndexOf(" ") * "/n".Length())))),_arg_0.Length()).Length())
+Number of evaluations: 326307376

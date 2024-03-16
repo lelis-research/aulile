@@ -1,0 +1,2 @@
+Program: _arg_0.replace(_arg_0.lower(), "")[ length-concat(" ", _arg_0).IndexOf("9"):]
+Number of evaluations: 48864451

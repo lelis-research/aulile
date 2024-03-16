@@ -1,0 +1,2 @@
+Program: (ifarg_1.replace(" ", "yes").Contain(" ") then (ifarg_1.Contain(arg_0.Substr(2,-3)) then (ifconcat(concat("no", "yes"), arg_0).lower().Contain(arg_1) then "yes" else "no") else "yes") else (ifarg_1.Substr(-4,3).SuffixOf(arg_1) then (ifconcat(concat("no", "yes"), arg_0).lower().Contain(arg_1) then "yes" else "no") else "yes"))
+Number of evaluations: 1094713092

@@ -1,0 +1,2 @@
+Program: (ifEqual(arg_0.Substr(2,-3),"/") then 3.IntToStr() else ((ifarg_0.Substr(1,-1).Contain("/") then 2 else 1).IntToStr().StrToInt() * ((3 + 4) - arg_0.Length()).IntToStr().Length()).IntToStr()).replace(3.IntToStr(), (ifEqual(arg_0.Substr(4,-1),"/") then 3.IntToStr() else ((ifarg_0.Substr(1,-1).Contain("/") then 2 else 1).IntToStr().StrToInt() * ((3 + 4) - arg_0.Length()).IntToStr().Length()).IntToStr()))
+Number of evaluations: 2832890472

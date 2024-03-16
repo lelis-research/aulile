@@ -1,0 +1,2 @@
+Program: concat(_arg_0.Substr((5 + 9):(5 + 9)+3).replace("%", ""), (ifEqual(_arg_0.Substr((5 + 9):(5 + 9)+3).replace("%", ""),concat(_arg_0.Substr((5 + 9):(5 + 9)+3).replace("%", ""), _arg_0.Substr((5 + 9):(5 + 9)+3).replace("%", "")).Substr(3:3+4)) then concat(_arg_0.Substr((5 + 9):(5 + 9)+3).replace("%", ""), _arg_0)[:(3 - _arg_0.Substr((5 + 9):(5 + 9)+3).replace("%", "").Length())] else _arg_0)[ length-4:])
+Number of evaluations: 192415547

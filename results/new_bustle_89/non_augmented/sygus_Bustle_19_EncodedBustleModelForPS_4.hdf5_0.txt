@@ -1,0 +1,2 @@
+Program: _arg_0.replace("1", "apple").replace(",", "").replace("2", "bananas").replace("3", "strawberries").replace("4", "oranges")
+Number of evaluations: 48740057

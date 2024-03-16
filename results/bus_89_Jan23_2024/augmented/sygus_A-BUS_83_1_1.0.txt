@@ -1,0 +1,2 @@
+Program: concat(5.IntToStr(), _arg_0.replace(_arg_0.replace(1.IntToStr(), ""), _arg_0.Substr(_arg_0.IndexOf(0.IntToStr()):_arg_0.IndexOf(0.IntToStr())+_arg_0.IndexOf(" ")).strip()))[ length-concat(_arg_0[:1], _arg_0.Substr(_arg_0.IndexOf(0.IntToStr()):_arg_0.IndexOf(0.IntToStr())+_arg_0.IndexOf(" ")).strip())[ length-6:].Length():]
+Number of evaluations: 148005126

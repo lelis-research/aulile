@@ -1,0 +1,2 @@
+Program: concat(concat(concat(concat(arg_0[:1], arg_1), "@"), arg_2).lower(), ".com")
+Number of evaluations: 143043

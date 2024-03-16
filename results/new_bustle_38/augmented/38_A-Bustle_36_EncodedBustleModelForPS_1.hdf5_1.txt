@@ -1,0 +1,2 @@
+Program: concat(arg_0[:15], (ifEqual(arg_0,arg_0[:15]) then "" else "..."))
+Number of evaluations: 527382
