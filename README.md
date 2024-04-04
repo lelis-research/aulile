@@ -5,8 +5,6 @@ A common approach to program synthesis is to use a learned function to guide the
 - [Directory Structure](#directory-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Citation](#citation)
 
 ## Directory Structure
