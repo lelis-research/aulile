@@ -30,7 +30,6 @@ A common approach to program synthesis is to use a learned function to guide the
 │   ├── bustle_model_05.hdf5
 │   └── sygus_models
 │       ├── EncodedBustleModelForPS_1.hdf5
-│       ├── EncodedBustleModelForPS_1234.hdf5
 │       ├── EncodedBustleModelForPS_2.hdf5
 │       ├── EncodedBustleModelForPS_3.hdf5
 │       ├── EncodedBustleModelForPS_4.hdf5
@@ -80,12 +79,13 @@ If you use this code in your research, please cite the following paper:
 
 ```
 @article{
-    aulile2024,
+    rahman2024synthesizing,
     title={Synthesizing Libraries of Programs with Auxiliary Functions},
-    author={Anonymous},
-    journal={Submitted to Transactions on Machine Learning Research},
-    year={2023},
+    author={Habibur Rahman and Thirupathi Reddy Emireddy and Kenneth Tjhia and Elham Parhizkar and Levi Lelis},
+    journal={Transactions on Machine Learning Research},
+    issn={2835-8856},
+    year={2024},
     url={https://openreview.net/forum?id=tP1PBrMUlX},
-    note={Under review}
+    note={}
 }
 ```
